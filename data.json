@@ -1,0 +1,40 @@
+{
+    "Events": [
+        {
+            "name": "Day 1 EPIC Loyalty",
+            "link": "https://zoom.us/j/123456789",
+            "timestamp": "2024-01-17T12:00:00Z"
+        },
+        {
+            "name": "Day 2 EPIC Loyalty", 
+            "link": "https://example.com/event2",
+            "timestamp": "2024-01-18T15:30:00Z"
+        },
+        {
+            "name": "Day 3 EPIC Loyalty",
+            "link": "https://example.com/event3", 
+            "timestamp": "2024-01-19T09:00:00Z"
+        }
+    ],
+    "Homework": [
+        {
+            "name": "Homework 1",
+            "link": "https://www.videoask.com/fniwu2m7c"
+        },
+        {
+            "name": "Homework 2",
+            "link": "https://www.videoask.com/fniwu2m7c"
+        },
+        {
+            "name": "Homework 3",
+            "link": "https://www.videoask.com/fniwu2m7c"
+        }
+    ],
+    "Offers": [
+        {
+            "name": "Offer",
+            "link": "https://example.com/offer-2",
+            "timestamp": "2024-01-19T09:00:00Z"
+        }
+    ]
+}
