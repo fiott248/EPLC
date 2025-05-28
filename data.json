@@ -3,17 +3,17 @@
         {
             "name": "Day 1 EPIC Loyalty",
             "link": "https://zoom.us/j/123456789",
-            "timestamp": "2024-01-17T12:00:00Z"
+            "timestamp": "2025-05-29T12:00:00Z"
         },
         {
             "name": "Day 2 EPIC Loyalty", 
             "link": "https://example.com/event2",
-            "timestamp": "2024-01-18T15:30:00Z"
+            "timestamp": "2025-05-29T15:30:00Z"
         },
         {
             "name": "Day 3 EPIC Loyalty",
             "link": "https://example.com/event3", 
-            "timestamp": "2024-01-19T09:00:00Z"
+            "timestamp": "2025-06-19T09:00:00Z"
         }
     ],
     "Homework": [
@@ -34,7 +34,7 @@
         {
             "name": "Offer",
             "link": "https://example.com/offer-2",
-            "timestamp": "2024-01-19T09:00:00Z"
+            "timestamp": "2025-05-29T09:00:00Z"
         }
     ],
     "Videos": [
