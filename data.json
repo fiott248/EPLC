@@ -36,5 +36,19 @@
             "link": "https://example.com/offer-2",
             "timestamp": "2024-01-19T09:00:00Z"
         }
+    ],
+    "Videos": [
+        {
+            "videoUrl" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "title" : "Big Buck Bunny"
+        },
+        {
+            "videoUrl" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "title" : "Big Buck Bunny"
+        },
+        {
+            "videoUrl" : "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "title" : "Big Buck Bunny"
+        }
     ]
 }
